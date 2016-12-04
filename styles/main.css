@@ -1,0 +1,51 @@
+body {
+      background-image: url(https://s-media-cache-ak0.pinimg.com/originals/23/01/b6/2301b6b3a8ccbf21788e3c49ef2ca38b.jpg);
+      background-position: center;
+      background-size:auto;
+      background-repeat: repeat;
+     }
+
+.indexNav {
+  font-family: fantasy;
+  color: #9b2f04;
+  font-weight: bold;
+  float: right;
+  padding: 10px;
+  margin: 0px;
+  background-color: #2D2D2D;
+}
+
+.rowAfter {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+nav ul li {
+  padding: 0px;
+  margin: 0px;
+}
+
+h2 {
+  font-family: fantasy;
+  color: #9b2f04;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: fantasy;
+  color: #9b2f04;
+  font-weight: bold;
+  background-color: #C4C4C4;
+  padding-top: 10px;
+  margin: 0px;
+  border-radius: 5px;
+  border: 5px;
+  border-color: #2D2D2D;
+  border-width: medium;
+}
+
+p {
+  font-family: fantasy;
+  color: white;
+}
