@@ -1,8 +1,9 @@
 body {
    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/23/01/b6/2301b6b3a8ccbf21788e3c49ef2ca38b.jpg);
    background-position: center;
-   background-size:auto;
+   background-size: auto;
    background-repeat: repeat;
+   background-attachment: fixed;
 }
 .rowAfter {
   clear: both;
@@ -15,6 +16,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   border-radius: 5px;
+  margin-top: 10px;
 }
 .orangeopaquerow {
    background-color: #A75215;
