@@ -9,6 +9,13 @@ body {
   content: "";
   display: table;
 }
+.timeImage {
+  width: 33%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
 .orangeopaquerow {
    background-color: #A75215;
    padding: 10px;
@@ -18,7 +25,7 @@ body {
 .purpleopaquerow {
    background-color: #210708;
    padding: 50px;
-   opacity: 0.7;
+   opacity: 0.8;
 }
 .navbar {
    font-size: 20px;
@@ -27,7 +34,10 @@ body {
    font: #210708;
    float: right;
 }
-
+.sprintIndex {
+  margin: 0 15px 15px 15px;
+  padding: 15px;
+}
 .indexNav {
    color: #210708;
    margin: 5px 5px 0px 5px;
@@ -40,7 +50,8 @@ body {
 
 .row {
    width: 100%;
-   display: flex; flex-wrap: wrap;
+   display: flex;
+   flex-wrap: wrap;
 }
 .col-1 {
    width: 8.33%;
