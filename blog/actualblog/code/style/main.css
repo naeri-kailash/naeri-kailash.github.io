@@ -1,0 +1,80 @@
+body {
+   background-image: url(https://s-media-cache-ak0.pinimg.com/originals/23/01/b6/2301b6b3a8ccbf21788e3c49ef2ca38b.jpg);
+   background-position: center;
+   background-size:auto;
+   background-repeat: repeat;
+}
+.rowAfter {
+  clear: both;
+  content: "";
+  display: table;
+}
+.orangeopaquerow {
+   background-color: #A75215;
+   padding: 10px;
+   margin-top: 15px;
+   opacity: 0.5;
+}
+.purpleopaquerow {
+   background-color: #210708;
+   padding: 50px;
+   opacity: 0.7;
+}
+.navbar {
+   font-size: 20px;
+   font-family: fantasy;
+   font-weight: lighter;
+   font: #210708;
+   float: right;
+}
+
+.indexNav {
+   color: #210708;
+   margin: 5px 5px 0px 5px;
+   padding-bottom: 0;
+}
+.secondrow {
+   background-color: #A75215;
+   padding: 20px;
+}
+
+.row {
+   width: 100%;
+   display: flex; flex-wrap: wrap;
+}
+.col-1 {
+   width: 8.33%;
+}
+.col-2 {
+   width: 16.66%;
+}
+.col-3 {
+   width: 25%;
+}
+.col-4 {
+   width: 33.33%;
+}
+.col-5 {
+   width: 41.66%;
+}
+.col-6 {
+   width: 50%;
+}
+.col-7 {
+   width: 58.33%;
+}
+.col-8 {
+   width: 66.66%;
+}
+.col-9 {
+   width: 75%;
+}
+.col-10 {
+   width: 83.33%;
+}
+.col-11 {
+   width: 91.66%;
+}
+.col-12 {
+   width: 100%;
+}
