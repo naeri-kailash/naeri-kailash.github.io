@@ -16,7 +16,7 @@ img.center {
    position: center;
    border-radius: 0;
 }
-.sprintIndex {
+.sprintIndex .timeImage {
    width: 400px;
    margin-left: auto;
    margin-right: auto;
