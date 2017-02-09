@@ -16,6 +16,15 @@ img.center {
    position: center;
    border-radius: 0;
 }
+.sprintIndex {
+   width: 400px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.col-6-45 {
+  width: 48%;
+  display: inline-block;
+}
 .orangeopaquerow {
    width:100%;
    padding: 1rem 0 1rem 0;
